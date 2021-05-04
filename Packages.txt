@@ -1,0 +1,14 @@
+Package: 
+Architecture: iphoneos-arm
+Version: 
+Section: Mask icon
+Maintainer: Anduy
+Depends: mobilesubstrate
+Filename: ./debfiles/com.QiaoweidE.Maskicons_1.5.1_iphoneos-arm.deb
+Size: 1733906
+MD5sum: 
+Homepage: 
+Description: mask cho icon ios snowbroad
+Name: MaskIcons collect
+Author: Anduy
+Depiction: https://Anduy09.github.io/cydia/description.html?id=com.Anduy.Maskicons
